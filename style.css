@@ -35,14 +35,14 @@ section{
 
 #left{
     width: 390px;
-    height: 700px;
+    height: 800px;
     background-image: url("img/back_leftcol.gif");
     background-repeat: no-repeat; 
 }
 
 #right{
     width: 570px;
-    height: 700px;
+    height: 800px;
     background-image: url("img/back_rightcol.gif"); 
     background-repeat: no-repeat;
 }
@@ -59,7 +59,7 @@ footer{
 figure{
    position: relative;
     left: 100px;
-    bottom: -30px;
+    bottom: -60px;
    
 }
 
@@ -105,4 +105,9 @@ li:hover{
 .p-footer{
     color: rgba(255, 255, 0, 0.788);
     
+}
+
+img{
+    position: relative;
+    top: -25px;
 }

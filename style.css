@@ -35,14 +35,14 @@ section{
 
 #left{
     width: 390px;
-    height: 800px;
+    height: 820px;
     background-image: url("img/back_leftcol.gif");
     background-repeat: no-repeat; 
 }
 
 #right{
     width: 570px;
-    height: 800px;
+    height: 820px;
     background-image: url("img/back_rightcol.gif"); 
     background-repeat: no-repeat;
 }
